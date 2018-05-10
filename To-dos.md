@@ -1,0 +1,37 @@
+# To-dos
+
+- [ ] open source license for course?
+- [ ] add assignment descriptions to rubrics
+- [ ] revise basic DAW instructions (base off of lab assignments)
+- [ ] create "best practices" document
+- [ ] revise lab assignment descriptions so that they work more generally
+  - [ ] 1
+  - [ ] 2
+  - [ ] 3
+  - [ ] 4
+  - [ ] 5
+  - [ ] 6
+  - [ ] 7
+  - [ ] 8
+- [ ] make sampler instrument lab
+- [ ] insert images
+- [ ] revise instructions
+  - [ ] mini comp 1
+  - [ ] mini comp 2
+  - [ ] final project
+  - [ ] basic DAW page
+  - [ ] guided listening presentation
+- [ ] rubrics
+  - [ ] mini comp 1
+  - [ ] mini comp 2
+  - [ ] final project
+  - [ ] labs (one for all)
+- [ ] choose pieces for analysis presentation
+- [ ] resources for analysis unit
+- [ ] put in proper link tags
+- [ ] figure out actual TODO formatting
+- [ ] look for Pat Metheny robot orchestra
+- [ ] add sampler instrument lab
+- [ ] check out the following for music selections
+  - [ ] Xenakis concrete ph
+  - [ ] look at 60 X 60 for music selections
