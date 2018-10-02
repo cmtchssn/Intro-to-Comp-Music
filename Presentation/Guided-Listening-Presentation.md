@@ -6,11 +6,11 @@ These presentations will be prepared and presented in randomly assigned groups o
 They should be approximately 10 minutes long. Half of this time is dedicated to listening to the full piece.
 There are two components to this assignment, each with different different due dates (noted below).
 
-## Song Selection – DUE WEDNESDAY FEB 21 (see separate poll on Moodle)
+## Song Selection – DUE MONDAY OCT 1 (see separate poll on Moodle)
 Chose a song from the shared class Spotify Presentation Selections playlist. Enter your selection in the poll posted to Moodle. These songs are available on a first-come-first-served basis.
 **10 points**
 
-## Presentation Content – SLIDES DUE ON MOODLE MARCH 5, PRESENTATIONS MARCH 5 & 7
+## Presentation Content – SLIDES DUE ON MOODLE MONDAY OCT 8, PRESENTATIONS OCT 8 & 10
 As much as I like to avoid slides during most classes, you ARE expected to prepare a Powerpoint (or Keynote or Google Slides) for your presentation day. Your total presentation cannot exceed 10:00. Timings per section are approximate and offered as suggestions.
 
 ### Intro and Background Info – 2:00
