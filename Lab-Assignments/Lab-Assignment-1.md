@@ -35,13 +35,12 @@ Review the following document from our course materials:
 ---
 
 #### Instructions
-1. Download [DrumLoop1.wav](https://drive.google.com/open?id=0BwX0PfI3Xxr6SFJZeG9Jd2h0aHc), [DrumLoop2.wav](https://drive.google.com/open?id=0BwX0PfI3Xxr6NzRocTRVQXhZTlk), [PianoLoop1.wav](https://drive.google.com/open?id=0BwX0PfI3Xxr6bGY5UGZtTm1NaUU), and/or [PianoLoop2.wav](https://drive.google.com/open?id=0BwX0PfI3Xxr6ZWJUcjZwOFVEWEE) from Google Drive. You can download all files as one folder [here](https://drive.google.com/open?id=0BwX0PfI3Xxr6UTFDLWJJXzN6Sms).
-2. Open your DAW, create a new song/project with the title "YourFirstNameYourLastName-Lab1". If prompted, use the following settings:
+1. Open your DAW, create a new song/project with the title "YourFirstNameYourLastName-Lab1". If prompted, use the following settings:
   * Sample Rate - 44.1kHz
   * Resolution - 16 bit
   * Tempo - 120 BPM
-3. Drag one or multiple loop(s) onto new separate tracks in the arrange window.
-4. Using only the basic editing/splicing techniques - copying, reversing, and speed/pitch manipulations - create 2 different variations of the original loops, each on their own tracks, each at least 2 bars/measures in length. You may end up using more than 2 tracks in your project as you move Events around and audition different parts and clips. Name the tracks of the variations "Variation 1" and "Variation 2" so that it is clear which ones are finished.
-5. Ensure that all of your edits are snapped to [The Grid](DAW-instructions/the-grid.md). When grid snapping is on, by default, regions and edits will snap to rhythmic divisions as you drag in the arrange window. To temporarily disable this behavior – e.g. if you need to make a tighter edit on an individual audio region – hold the shift key while dragging. If you notice the opposite behavior - that snapping only occurs while holding shift – simply press the N key to re-enable **Snap to Grid**.
-6. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
-7. As always, save a backup copy on your personal storage media.
+2. Drag four or more loops onto new separate tracks in the arrange window. Try to pick loops that combine well together to make an interesting beat/song. 
+3. Using only the basic editing/splicing techniques - copying, reversing, and speed/pitch manipulations - create three different variations of the original loops, each on their own tracks, each at least eight bars/measures in length. Name the tracks of the variations "Variation 1, 2, 3" so that it is clear which ones are finished. You should have at least 8 tracks in total, four originals and 4 variations.
+4. Ensure that all of your edits are snapped to [The Grid](DAW-instructions/the-grid.md). When grid snapping is on, by default, regions and edits will snap to rhythmic divisions as you drag in the arrange window. To temporarily disable this behavior – e.g. if you need to make a tighter edit on an individual audio region – hold the shift key while dragging. If you notice the opposite behavior - that snapping only occurs while holding shift – simply press the N key to re-enable **Snap to Grid**.
+5. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
+6. As always, save a backup copy on your personal storage media.
