@@ -14,7 +14,7 @@ Review the following sections in the Studio One Reference Manual:
     * Editing>Common Editing Actions
 
 Review the following document from our course materials:
-  * [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md)
+  * [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md)
 
 ---
 
