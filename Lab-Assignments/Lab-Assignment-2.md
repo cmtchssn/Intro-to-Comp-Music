@@ -13,7 +13,7 @@ Preparation of a mobile audio recording app of your choice on your personal mobi
 If you do not own a mobile device capable of recording audio (iPhone, Android, or other portable standalone recorder), one will be provided for you at the lab meeting time.
 
 Review the following document from our course materials:
-  * [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md)
+  * [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md)
 
 ---
 
@@ -21,8 +21,8 @@ Review the following document from our course materials:
   * Field recording using a mobile recorder
   * Importing audio from a device
   * Event-based audio editing techniques and tools within the arrange window
-    * Creating and editing [Fades with the Arrow Tool](DAW-instructions/arrange-view-arrow-tool.md#adjust-audio-event-volume-envelopes)
-    * Optional: [Strip Silence](DAW-instructions/strip-silence.md)
+    * Creating and editing [Fades with the Arrow Tool](../DAW-instructions/arrange-view-arrow-tool.md#adjust-audio-event-volume-envelopes)
+    * Optional: [Strip Silence](../DAW-instructions/strip-silence.md)
 
 ---
 
@@ -40,5 +40,5 @@ Return to the lab with enough time remaining to import and edit your files.
   * [Apple Music Memos Instructions](https://support.apple.com/kb/PH23294?locale=en_US) (You can use either the **Share via email** or **Share via iTunes on a Mac** options, though the latter requires an iPhone USB cable and knowledge of iTunes.)
 5. Look for interesting moments or sections in your files and isolate them by splicing and deleting undesired content. Tighten up the remaining audio regions by adding short Fades to the start and end of every region.  
 *Optional: Depending on the source material, the "Strip Silence" function may work well to automate the first stage of this process. You will still need to manually clean up the regions that it leaves behind.*
-6. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
+6. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
 7. As always, save a backup copy on your personal storage media.
