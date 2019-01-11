@@ -17,5 +17,5 @@ All of the steps below can be done in an existing project (e.g. your Final Proje
 *A submix is created when the output of multiple channels are sent to a bus track rather than the main outs.*
 Once you have a submix set up, apply a plugin on the bus channel appropriate for this signal flow - e.g. EQ, compression, etc.
 3. Create an aux send = Provide at least one example of one or more tracks sent to a bus or FX channel using aux sends. Apply a plugin to the bus/FX channel appropriate for this type of signal flow - e.g. reverb, delay, etc.
-4. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
+4. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
 5. As always, save a backup copy on your personal storage media.
