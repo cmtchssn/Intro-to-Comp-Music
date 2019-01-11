@@ -28,8 +28,6 @@ Spotify Full Playlist Link <https://open.spotify.com/user/1228893326/playlist/5q
 | St. Vincent | Strange Mercy | Champagne Year | <https://open.spotify.com/track/3V0VfPCipaFZkGLy1d0xdq>
 | Trent Reznor & Atticus Ross | The Social Network Sdtk | Pieces Form The Whole | <https://open.spotify.com/track/3PK7tZzJxuoJYoik7j3p1H>
 | A Tribe Called Quest | We Got It From Here... Thank You 4 Your Service | Solid Wall Of Sound | <https://open.spotify.com/track/5OzOQRssjhxaBj0xd78Z2w>
-
-
 | Curtis Roads | Point Line Cloud | Eleventh Vortex | <https://youtu.be/XgBjD6_SbOU>
 | Laurie Spiegel | The Expanding Universe | Appalachian Grove I | <https://youtu.be/iWvsdZuZXl8>
 | Makunouchi Bento | Swimé | Rain Dragon, Hidden Genius |
