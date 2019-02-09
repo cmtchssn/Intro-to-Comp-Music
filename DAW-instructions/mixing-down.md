@@ -3,7 +3,7 @@ In most cases, you’ll record multiple Tracks in a Song, but you'll need to mix
 
 ### Create a Mixdown
 
-![Export Mixdown](Images/ExportMixdown_258x509.png)
+![Export Mixdown](../Images/ExportMixdown_258x509.png)
 
 To create a mix of your Song in Studio One, navigate to Song/Export Mixdown or press [Ctrl]/[Cmd]+[E] on the keyboard to open the Export Mixdown menu.
 
