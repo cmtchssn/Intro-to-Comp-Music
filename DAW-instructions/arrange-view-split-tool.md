@@ -1,7 +1,7 @@
 # Arrange View Mouse Tools
 The mouse tools allow direct interaction with Events, using the mouse. It is helpful to remember that actions done using the mouse tools can be undone at any time, so feel free to explore them. You can click the right mouse button in any open space in the Arrange or Edit views to open a list of mouse tools and editing commands. Choose the desired tool or command by clicking it with the left mouse button. You can also click the middle mouse button (or scroll wheel) to display an expanded list of tools to choose from, including all Paint tool shapes.
 
-![Split Tool](Images/studio-one-arrange-view-split-tool.jpeg)
+![Split Tool](../Images/studio-one-arrange-view-split-tool.jpeg)
 
 ## Split Tool
 Using the Split tool, single Events can be split into multiple Events. Click on the Split Tool button, or press [number 3] on the keyboard to select the Split tool.
