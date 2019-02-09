@@ -11,7 +11,7 @@ Any number of Events can be selected and transposed or tuned simultaneously, but
 
 The Transpose and Tune fields are also available by right-clicking [Cmd-clicking on some Macs] the desired audio Event.
 
-![Event Inspector](Images/audio-event-inspector.png)
+![Event Inspector](../Images/audio-event-inspector.png)
 
 ---
 
