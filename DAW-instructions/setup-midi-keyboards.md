@@ -2,7 +2,7 @@
 
 A MIDI keyboard controller is a hardware MIDI device that is generally used for playing and controlling other MIDI devices, virtual software instruments, and software parameters. In Studio One, these devices are referred to as Keyboards. Before recording a performance with a Keyboard, the MIDI keyboard controller must first be set up in Studio One. Once a Keyboard is set up, it is available at all times for use in Studio One.
 
-![External Devices](Images/ExternalDevices_283x289.png)
+![External Devices](../Images/ExternalDevices_283x289.png)
 
 To set up your Keyboard, navigate to Studio One/Options/External Devices (Mac OS X: Preferences/External Devices) and follow these steps:
 
