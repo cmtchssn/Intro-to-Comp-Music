@@ -5,7 +5,7 @@ Once the crossfade is in place, you can adjust the shape and width by dragging t
 Generally, shorter crossfades work well for percussive material (e.g. drums, short guitar strums) while longer crossfades work on more resonant or sustained material (e.g. keyboards, environmental sounds)
 
 **Pre-Crossfade:**  
-![Pre-Crossfade](Images/pre-crossfade.jpeg)  
+![Pre-Crossfade](../Images/pre-crossfade.jpeg)  
 
 **Post-Crossfade:**  
-![Post-Crossfade](Images/crossfade.jpeg)
+![Post-Crossfade](../Images/crossfade.jpeg)
