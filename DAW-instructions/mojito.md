@@ -1,7 +1,7 @@
 # Mojito
 Mojito is a simple, monophonic, subtractive synthesizer with effects that is capable of generating a wide range of sounds. It models a classic analog synthesizer and features a low-aliasing oscillator and a 24 dB filter emulation. Mojito can generate killer bass sounds, lead sounds, and special effects.
 
-![Mojito](Images/Mojito_584x198.png)
+![Mojito](../Images/Mojito_584x198.png)
 
 ### Interface
 Mojito is organized into Oscillator (OSC), Amplifier (AMP), Filter (FLT), and FX sections, with easy-to-use, yet powerful controls.
