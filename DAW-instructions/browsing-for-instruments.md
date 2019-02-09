@@ -1,7 +1,7 @@
 # Browsing for Instruments
 Click on the Instruments tab in the Browser or press [F6] on the keyboard to browse your virtual instruments.
 
-![Instrument Tab](Images/BrowserInstrumentTab3_1_234x397.png)
+![Instrument Tab](../Images/BrowserInstrumentTab3_1_234x397.png)
 
 ### Sorting the Instruments View
 The list of virtual instruments can be sorted to help you find what you are looking for. Click on the Sort by options at the top of the Browser to sort by one of the following categories:
