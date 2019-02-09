@@ -1,7 +1,7 @@
 # The Console
 Mixing in Studio One is primarily done in the Console. Open the Console by clicking on the [Mix] button or by pressing [F3] on the keyboard.
 
-![Console Main](Images/console-main.png)
+![Console Main](../Images/console-main.png)
 
 Each channel of audio in your Song is represented by a Channel in the Console. Audio Tracks in the Arrange view are directly represented by Audio Channels in the Console, whereas Instrument Tracks have no direct representation in the Console. Instead, Instrument Channels represent the audio output of virtual instruments. There are several other Channel types discussed below, including Input, Output, Bus, and FX Channels.
 
