@@ -7,7 +7,7 @@ Speedup factor is a timestretching function for making an audio clip shorter or 
 
 The Speedup field is also available by right-clicking [Cmd-clicking on some Macs] the desired audio Event.
 
-![Event Inspector](Images/audio-event-inspector.png)
+![Event Inspector](../Images/audio-event-inspector.png)
 
 ---
 
