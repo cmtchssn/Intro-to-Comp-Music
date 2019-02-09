@@ -1,7 +1,7 @@
 # Loops Tab
 The Loops tab lets you locate and explore audio and music loop content made for Studio One in the Browser, with intelligent sorting to assist you in finding the right loops quickly and easily. Click on the Loops tab in the Browser or press [F8] on the keyboard to browse through any installed loop content.
 
-![Loops Tab](Images/BrowserLoopsTab_234x494.png)
+![Loops Tab](../Images/BrowserLoopsTab_234x494.png)
 
 ### Sorting Loops
 The Loops tab offers a three-tiered sorting system. At the top of the Loops tab window, you'll see Sort by... followed by three category selectors. You can choose to sort by any of the following criteria:
