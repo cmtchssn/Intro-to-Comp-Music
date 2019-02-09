@@ -5,7 +5,7 @@ Perhaps the most common Timebase setting is Bars, which display time in a musica
 
 ### Quantize Panel
 
-![Quantize Panel](Images/QuantizePanel_633x25.png)
+![Quantize Panel](../Images/QuantizePanel_633x25.png)
 
 The Quantize panel can be opened from the toolbar by clicking on the Quantize Panel button, or by selecting Quantize from the View/Additional Views menu. The Quantize panel can be detached and freely placed on the screen. In this panel, you can edit all settings related to the Quantize grid that are displayed in the Arrangement. From left to right in the panel, you can see areas for Grid or Groove mode; note-value selection; note grouping and Swing amount; Start, End, Velocity, and Range percentages; and preset management.
 
