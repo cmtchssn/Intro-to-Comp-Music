@@ -1,6 +1,6 @@
 # Impact
 
-![Impact](Images/Impact_584x505.png)
+![Impact](../Images/Impact_584x505.png)
 
 Impact features a grid of pads into which samples are loaded and played back independently, as with many popular hardware drum-sample players. Each pad has its own pitch, amplifier, and filter controls with accompanying envelopes. There are multiple stereo and mono outputs for each pad, making sophisticated output busing simple.
 
