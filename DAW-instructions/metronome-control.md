@@ -6,14 +6,14 @@ In Studio One, the metronome can be engaged and disengaged both globally and for
 ### Turn the Metronome On/Off Manually
 In the Transport, the Metronome button is to the left of the Master Volume fader and meter. Click on the Metronome button, or press [C] on the keyboard, to globally engage and disengage the metronome. The metronome is globally disengaged by default.
 
-![Transport Metronome Enabled](Images/TransportMetronomeEnabled_635x47.png)
+![Transport Metronome Enabled](../Images/TransportMetronomeEnabled_635x47.png)
 
 The Output Channels in the Console also feature Metronome buttons and level controls above the volume fader. These controls allow you to choose, for each output, whether or not the metronome is heard, and its level.
 
 ### Metronome Setup
 Click the Metronome Setup button (next to the Metronome button in the Transport) to access the Metronome Setup menu. In this menu, you can configure sounds and behavior for the metronome, as well as Precount and Preroll.
 
-![Metronome Setup](Images/MetronomeSetup_384x382.png)
+![Metronome Setup](../Images/MetronomeSetup_384x382.png)
 
 Here, you can choose an individual sample and volume level for Beats, Accents, and Offbeats. Accents play on the downbeat, or first beat, of each new bar. Offbeats play in the space between each Beat. You can choose from seventeen default samples for each, including Click, Clave, Rim Shot, and Tambourine. By default, the Accent Level setting is higher than the Beat Level setting, as most musicians like to have the downbeat of each bar emphasized to help keep time.
 
