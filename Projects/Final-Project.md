@@ -3,7 +3,7 @@
 ---
 
 ##### Description
-  For your final project, you will compose a 2:00-3:00 original piece to be presented at the end-of-semester concert on Monday, November 26. This project will be based in some manner on an original field recording – e.g. something you recorded in a coffee shop, while walking around campus, or an interesting collection of sounds from your kitchen. Otherwise, the form and genre of the project is completely up to you, so long as it can be presented in some format at the concert and uploaded to the class SoundCloud. Otherwise, it only needs to meet the guidelines listed below.
+  For your final project, you will compose a 2:00-3:00 original piece to be presented at the end-of-semester concert on Monday, April 1. This project will be based in some manner on an original field recording – e.g. something you recorded in a coffee shop, while walking around campus, or an interesting collection of sounds from your kitchen. Otherwise, the form and genre of the project is completely up to you, so long as it can be presented in some format at the concert and uploaded to the class SoundCloud. Otherwise, it only needs to meet the guidelines listed below.
 
 ---
 
