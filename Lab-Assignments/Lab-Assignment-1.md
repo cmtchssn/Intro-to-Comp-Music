@@ -1,5 +1,5 @@
 # Lab Assignment 1
-## Basic Audio Editing and Intro to DAW
+## Basic Audio Editing and Intro to Studio One
 
 ---
 
