@@ -42,7 +42,7 @@ This will ensure not only that all necessary media is duplicated, but also provi
 This step should be followed for all Lab Assignments (at the end of the lab hour), Mini Compositions, and the Final Project. Additional instructions may be part of the individual assignment descriptions, so be sure to double-check those documents before submitting.
 1. First, consolidate your song following the instructions above, then save again after consolidating.
 2. Regardless of which computer you're working on, first ensure that the main iMac at the large mixing desk is on. The following steps WILL NOT work if that computer is not on first.
-3. On the desktop is a shortcut called "MUS2745 Fall 2019 Submissions". Double-click to open that folder. If prompted, chose to connect as "Guest".
+3. In the left pane of the Finder window is a shortcut called "MUS2745 Fall 2019 Submissions". Double-click to open that folder. If prompted, chose to connect as "Guest".
 4. You should now see a an "MUS2745 Fall 2019 Submissions" window with folders labelled for all of our semester assignments and projects (Lab 1, Lab 2, Mini Composition 1, etc).
 5. Drag the song **folder** for your submission into the corresponding folder inside "MUS2745 Fall 2019 Submissions".
 6. If you would like, you can then go over to the main iMac at the mixing desk to open your project from the same "MUS2745 Fall 2019 Submissions" folder to ensure that everything works and all files transferred. It is up to you to make sure that I can open your project on that computer for grading.
