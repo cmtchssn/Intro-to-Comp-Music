@@ -28,9 +28,9 @@ Review the following document from our course materials:
 
 1. Before starting, ensure that you are using a mobile app that is set to record in an uncompressed format (see file types in Prerequisites) AND, if the options are accessible, that it is set to use a **bit depth of 16 bits or greater** and **sampling rate of 44,100Hz (44.1kHz) or greater**.
 2. Take the first half of lab time wandering around the building and immediate vicinity looking for interesting sounds. Remember to be respectful of those around you. Capture one example of each of the following on your portable recording device:
-  * natural sounds - sounds that occur in nature (birds, water, tree leaves, wind, etc)
-  * environmental sounds - sounds made by other humans or machines around you (talking, running, traffic, espresso machines, etc)
-  * intentional sounds - a sound you make yourself that you find interesting (knocking on a metal handrail or locker, stomping in the stairwell, squeaky shoes, etc)
+  * **natural sounds** - sounds that occur in nature (birds, water, tree leaves, wind, etc)
+  * **environmental sounds** - sounds made by other humans or machines around you (talking, running, traffic, espresso machines, etc)
+  * **intentional sounds** - a sound you make yourself that you find interesting (knocking on a metal handrail or locker, stomping in the stairwell, squeaky shoes, etc)
 Return to the lab with enough time remaining to import and edit your files.
 3. Open your DAW, create a new song/project with the title "YourFirstNameYourLastName-Lab2". If prompted, use the following settings:
   * Sample Rate - 44.1kHz
