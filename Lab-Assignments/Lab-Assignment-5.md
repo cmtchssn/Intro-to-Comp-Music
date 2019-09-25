@@ -1,4 +1,4 @@
-# Lab Assignment 5
+# Lab Assignment 4
 ## Basic MIDI Recording
 
 ---
