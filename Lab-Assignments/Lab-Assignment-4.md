@@ -26,7 +26,7 @@ This section of the manual is crucial to ensure that you know how to configure M
 
 ---
 
-1. Open your DAW, create a new song/project with the title "YourFirstNameYourLastName-Lab5". If prompted, use the following settings:
+1. Open your DAW, create a new song/project with the title "YourFirstNameYourLastName-Lab4". If prompted, use the following settings:
   * Sample Rate - 44.1kHz
   * Resolution - 16 bit
   * Tempo - will be changed later
