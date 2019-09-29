@@ -8,7 +8,7 @@
 
 ---
 
-1. Open your DAW, create a new song/project with the title "YourFirstNameYourLastName-Lab6". If prompted, use the following settings:
+1. Open your DAW, create a new song/project with the title "YourFirstNameYourLastName-Lab5". If prompted, use the following settings:
   * Sample Rate - 44.1kHz
   * Resolution - 16 bit
 2. Open the Studio One Reference Manual under the Help menu. Navigate to Built-In Virtual Instruments and read the entry for Mojito.
