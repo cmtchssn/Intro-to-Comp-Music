@@ -1,4 +1,4 @@
-# Lab Assignment 6
+# Lab Assignment 5
 ## Synthesizers
 
 ---
