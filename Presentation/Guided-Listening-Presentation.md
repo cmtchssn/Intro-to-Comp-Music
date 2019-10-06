@@ -2,16 +2,16 @@
 
 ---
 
-These presentations will be prepared and presented in randomly assigned groups of 4-5 students.
-They should be approximately 15 minutes long. Half of this time is dedicated to listening to the full piece.
+These presentations will be prepared and presented in randomly assigned groups of 3-4 students.
+They should be between 10 - 15 minutes long. Part of this time is dedicated to listening to the full piece.
 There are two components to this assignment, each with different different due dates (noted below).
 
-## Song Selection – DUE MONDAY FEB 18 (see separate poll on Moodle)
+## Song Selection – DUE MONDAY OCTOBER 09 (see separate poll on Moodle)
 Choose a song from the shared class Spotify Presentation Selections playlist. Enter your selection in the poll posted to Moodle. These songs are available on a first-come-first-served basis.
 **10 points**
 
-## Presentation Content – SLIDES DUE ON MOODLE MONDAY FEB 25, PRESENTATIONS FEB 25 & 27
-As much as I like to avoid slides during most classes, you ARE expected to prepare a Powerpoint (or Keynote or Google Slides) for your presentation day. Your total presentation cannot exceed 10:00. Timings per section are approximate and offered as suggestions.
+## Presentation Content – SLIDES DUE ON MOODLE MONDAY OCTOBER 14, PRESENTATIONS OCTOBER 14 & 16
+You are expected to prepare a Powerpoint (or Keynote or Google Slides) for your presentation day. Your total presentation cannot exceed 15:00. Timings per section are approximate and offered as suggestions.
 
 ### Intro and Background Info – ~3:00
 Give us some background information on the song you chose, including the artists involved, producers, any interesting facts about the writing or recording process, the meaning of the song, etc. Contextualize the non-sonic elements of the song. This does not have to be comprehensive - focus on the few things that are most interesting and relevant to the members in your group. Anything that is not common knowledge (e.g. dates, widely known facts) MUST be cited using the Chicago style Author-Date format. The final slide in your presentation should be your list of references. Do not use Wikipedia as a source. Interviews, web articles, Twitter posts by the actual artists, etc are all acceptable sources.  
@@ -22,9 +22,9 @@ One slide with a quick overview of salient and interesting features of the piece
 **15 points**
 
 ### Overall analysis – ~3:00-5:00
-3-5 slides that provide a simplified version of the timed descriptions in the Holmes guide. You will be showing (and only showing, not talking about) these slides and changing from one to the next in time with the music. They should be concise enough for your audience to read without being distracted from the listening experience. The total number of slides will vary depending on the form of the song. Each slide should have a few important bullet points for that section - What changed from the last section? What should we be listening for now? What are any especially important or striking features of this section? Is there anything that strays from the primary elements that you originally told us to listen for?  
+3-5 slides that provide a simplified version of the timed descriptions. You will be showing (and only showing, not talking about) these slides and changing from one to the next in time with the music. They should be concise enough for your audience to read without being distracted from the listening experience. The total number of slides will vary depending on the form of the song. Each slide should have a few important bullet points for that section - What changed from the last section? What should we be listening for now? What are any especially important or striking features of this section? Is there anything that strays from the primary elements that you originally told us to listen for?  
 **25 points**
 
-### Guided Discussion – ~5:00
+### Guided Discussion – ~3:00
 Chose one single feature from the song that you would like to explore further – a transition, the sound of one particular synth, some social commentary on the lyrics, etc. Lead a discussion on this topic. You should hear from a few of your classmates during this section. You can use a few short listening examples from your song during this discussion to illustrate your point - make sure you have the track times sorted out ahead of time!  
 **25 points**
