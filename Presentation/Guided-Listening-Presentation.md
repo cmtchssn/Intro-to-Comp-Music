@@ -6,7 +6,7 @@ These presentations will be prepared and presented in randomly assigned groups o
 They should be between 10 - 15 minutes long. Part of this time is dedicated to listening to the full piece.
 There are two components to this assignment, each with different different due dates (noted below).
 
-## Song Selection – DUE MONDAY OCTOBER 09 (see separate poll on Moodle)
+## Song Selection – DUE WEDNESDAY OCTOBER 09 (see separate poll on Moodle)
 Choose a song from the shared class Spotify Presentation Selections playlist. Enter your selection in the poll posted to Moodle. These songs are available on a first-come-first-served basis.
 **10 points**
 
