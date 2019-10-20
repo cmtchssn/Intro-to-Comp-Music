@@ -16,7 +16,8 @@
   * well-edited and/or quantized MIDI
   * at least 3 instances of instrument parameter automation that are not volume/pan (can be all 3 on one track or split up between the 3 tracks).
 4. For this assignment, you will need to submit a [Mixdown](../DAW-instructions/mixing-down.md) in addition to your song project folder. Use the 16bit/44.1 setting in the wav format. Listen to this Mixdown file all the way through to ensure it is free of errors.
-5. You will also need to submit an H264 file of your finished video with your audio track attached. I suggest using iMovie to accomplish this as it is easy to use and available in the lab, though you are welcome to use any video editing software that you are comfortable with.
+5. You will also need to submit a video file containing your finished video with your audio track attached. 
+
 6. When you are finished, ensure that your project has the name "YourFirstNameYourLastName-MiniComp2" and submit using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document. Make sure that both the Mixdown file and video file are stored inside your song project folder before submitting.
 7. As always, save a backup copy on your personal storage media.
 
