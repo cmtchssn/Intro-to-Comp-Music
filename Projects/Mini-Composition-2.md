@@ -9,7 +9,7 @@
 
 ---
 
-1. Use only the Mojito and Mai Tai virtual instruments in Studio One.  Do NOT use the Presence, Impact, or SampleOne instruments, as they are all sample players that use audio samples to generate sound.
+1. Use only the Mojito and Mai Tai virtual instruments in Studio One.  Do NOT use the Presence or SampleOne instruments, as they are all sample players that use audio samples to generate sound.
 2. You are allowed to use audio files as sound effects, but the focus of the composition must come from Mojito or Mai Tai.
 3. Your project MUST include:
   * at least 3 MIDI tracks with different custom settings on each track (use both Mojito and Mai Tai)
