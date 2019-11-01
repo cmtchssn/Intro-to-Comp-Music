@@ -19,6 +19,7 @@
 4. When you are finished, ensure that your project has the name "YourFirstNameYourLastName-FinalProject" and submit using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document. Make sure that both the Mixdown file and any other files are stored inside your song project folder before submitting.
 5. As always, save a backup copy on your personal storage media.
 6. Incorrect/incomplete submissions will have points taken off with no exception.
+7. You must be present for sound checks the morning of December 2 in order to receive full credit for the assignment.
 
 # Rubric
 ## Final Project
