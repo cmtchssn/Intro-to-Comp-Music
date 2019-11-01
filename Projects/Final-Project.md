@@ -3,16 +3,14 @@
 ---
 
 ##### Description
-  For your final project, you will compose a 2:00-3:00 original piece to be presented at the end-of-semester concert on Monday, April 1. This project will be based in some manner on an original field recording – e.g. something you recorded in a coffee shop, while walking around campus, or an interesting collection of sounds from your kitchen. Otherwise, the form and genre of the project is completely up to you, so long as it can be presented in some format at the concert and uploaded to the class SoundCloud. Otherwise, it only needs to meet the guidelines listed below.
+  For your final project, you will compose a 2:00-3:00 original piece to be presented at the end-of-semester concert on Monday, December 2. This project will be based in some manner on an original field recording – e.g. something you recorded in a coffee shop, while walking around campus, or an interesting collection of sounds from your kitchen. Otherwise, the form and genre of the project is completely up to you, so long as it can be presented in some format at the concert and uploaded to the class SoundCloud. Otherwise, it only needs to meet the guidelines listed below.
 
 ---
 
-1. A rough-draft at least 1:00 in length that demonstrates the main ideas of your project must be submitted by **Monday April 1** for in-class peer evaluation. At minimum, this should include an edited high-quality version of your intended field recording. Submission file sizes cannot exceed 10MB - this may require an **mp3** [Mixdown](../DAW-instructions/mixing-down.md) or a conversion of a WAV mixdown to mp3 using another software utility like XLD on Mac, Audacity, or a free online mp3 converter. If converting to mp3, please ensure that you set your bitrate to a minimum of 192kbps (higher is fine). Submit this rough draft to the designated assignment on Moodle and be prepared to talk about your project for a few minutes in class - no other files need to be submitted at that time.
-2. The final draft of your project is due **Friday April 12** and must adhere to the following guidelines:
-  * All work MUST be done in Studio One.
-  * Use of "canned" loops (pre-made loops in Studio One or other commercial products) is prohibited.
+1. A rough-draft at least 1:00 in length that demonstrates the main ideas of your project must be submitted by **Monday November 18** for in-class peer evaluation. At minimum, this should include an edited high-quality version of your intended field recording. Submission file sizes cannot exceed 10MB - this may require an **mp3** [Mixdown](../DAW-instructions/mixing-down.md) or a conversion of a WAV mixdown to mp3 using another software utility like XLD on Mac, Audacity, or a free online mp3 converter. If converting to mp3, please ensure that you set your bitrate to a minimum of 192kbps (higher is fine). Submit this rough draft to the designated assignment on Moodle and be prepared to talk about your project for a few minutes in class - no other files need to be submitted at that time.
+2. The final draft of your project is due **Friday December 6** and must adhere to the following guidelines:
   * Your project must include at least one track containing audio that demonstrates some of the concepts and editing techniques from the musique concrète tradition (splicing, speed manipulation, pitch shifting, sampling, etc).
-  * Your project must include at least one track utilizing a built-in Studio One synthesizer instrument.
+  * Your project must include at least one track utilizing a built-in synthesizer instrument.
   * Your project must include at least one instance each of mixer automation (volume and/or pan) and instrument automation (filter cutoff, LFO frequency, etc).
   * Your project should be well-mixed (good balance between tracks, stereo spatialization) and use effects appropriately (EQ, compression, reverb). There is no minimum guideline for this category, but students that clearly put thought and attention into the balance, spatialization, and timbral qualities of their piece will earn more points.
   * All MIDI must be well-edited and/or quantized as applicable.
@@ -20,6 +18,7 @@
 3. For the final draft submission, you will need to submit a [Mixdown](../DAW-instructions/mixing-down.md) in addition to your song project folder. Use the 16bit/44.1 setting in the wav format. Listen to this Mixdown file all the way through to ensure it is free of errors and clipping.
 4. When you are finished, ensure that your project has the name "YourFirstNameYourLastName-FinalProject" and submit using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document. Make sure that both the Mixdown file and any other files are stored inside your song project folder before submitting.
 5. As always, save a backup copy on your personal storage media.
+6. Incorrect/incomplete submissions will have points taken off with no exception.
 
 # Rubric
 ## Final Project
