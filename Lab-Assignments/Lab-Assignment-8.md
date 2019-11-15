@@ -11,6 +11,7 @@
 ---
 
 A sample project has been made to use with this lab and is on Moodle. Please ensure that your song/project has the title "YourFirstNameYourLastName-Lab8".
+#VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY VERY IMPORTANT
 
 1. You will see 4 tracks: Drums, Bass, Guitar, and Vocals. Each of these tracks need to be manipulated in some way and the plugin to do so is already loaded on each track. The drums need to be glued together with compression. Using the compressor provided, adjust the attack, release, ratio, and threshold to attain a desirable drum sound.
 
